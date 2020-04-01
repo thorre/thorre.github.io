@@ -1,11 +1,11 @@
 {
-    "name": "beer_o_clock",
-    "short_name": "beer_o_clock",
+    "name": "Beer o'clock",
+    "short_name": "Beer o'clock",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Is it beer o'clock?",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
